@@ -1,5 +1,12 @@
 ## This is a simple Go project that gets a string and generates QRcode
-### use these commands to create Linux or Windows executable
+
+
+### Dependencies
+ Don't forget to import dependencies:
+ ```
+ Go get "github.com/skip2/go-qrcode"
+ ```
+### use these commands to create Linux or Windows executable files
 
   - Windows
 
